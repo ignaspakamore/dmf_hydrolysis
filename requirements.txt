@@ -1,7 +1,7 @@
-pandas
-numpy
-shap
-seaborn
-scikit-learn
-lightgbm
-matplotlib
+lightgbm==4.3.0
+matplotlib==3.7.1
+numpy==1.24.4
+pandas==1.5.3
+scikit-learn==1.3.2
+shap==0.44.1
+seaborn==0.13.0
