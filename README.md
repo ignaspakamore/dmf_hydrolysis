@@ -17,17 +17,19 @@ conda activate dmf_hydrolysis
 pip install -r requirements.txt
 ```
 
-## data/ directory
+## Repository directories
+
+### data/
 
 * Contains data from distinkt ChemSPX runs (Batches).
 * Data used for ML training.
 * Corected data using converter notebooks. 
 
-## ML/ directory
+### ML/ 
 
 Contains notebook used to generate predictive LightGBM model.
 
-## Converter/ directory 
+### Converter/
 
 Contains notebooks used to update data set and add pKa values. 
 
