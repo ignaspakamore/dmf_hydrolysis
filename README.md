@@ -5,7 +5,7 @@ This repoasitory contain data files and notebooks used to analyse data and produ
 ## Requirements
 All libraries used in this work are stored in requirements.txt file. Python version used -  **3.9.0**. 
 
-Recomended instalation via conda env: 
+**Recomended instalation via conda env:**
 
 1. 
 ```
@@ -19,3 +19,18 @@ conda activate dmf_hydrolysis
 ```
 pip install -r requirements.txt
 ```
+
+## data directory
+
+* Contains data from distinkt ChemSPX runs (Batches).
+* Data used for ML training.
+* Corected data using converter notebooks. 
+
+## ML directory
+
+Contains notebook used to generate predictive LightGBM model.
+
+## Converter directory 
+
+Contains notebooks used to update data set and add pKa values. 
+
