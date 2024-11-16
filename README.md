@@ -31,5 +31,5 @@ Contains notebook used to generate predictive LightGBM model.
 
 ### Converter/
 
-Contains notebooks used to update data set and add pKa values. 
+Contains notebooks used to update water quantities in DMF experimental data set and add pKa values. 
 
