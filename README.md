@@ -1,6 +1,6 @@
 # Computation-Guided Exploration of The Reaction Parameter Space of N,N-Dimethylformamide Hydrolysis
 
-This repoasitory contain data files and notebooks used to analyse data and produce ML models for publication: **"Computation-Guided Exploration of The Reaction Parameter Space of N,N-Dimethylformamide Hydrolysis" (10.26434/chemrxiv-2024-tn743)**. 
+This repository contain data files and notebooks used to analyse data and produce ML models for publication: **"Computation-Guided Exploration of The Reaction Parameter Space of N,N-Dimethylformamide Hydrolysis" (10.26434/chemrxiv-2024-tn743)**. 
 
 ## Requirements
 All libraries used in this work are stored in requirements.txt file. Python version used -  **3.9.0**. 
@@ -21,9 +21,8 @@ pip install -r requirements.txt
 
 ### data/
 
-* Contains data from distinkt ChemSPX runs (Batches).
+* Contains data from distinct ChemSPX sampling runs (Batches).
 * Data used for ML training.
-* Corected data using converter notebooks. 
 
 ### ML/ 
 
